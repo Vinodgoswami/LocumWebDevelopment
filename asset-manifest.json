@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.52de861d.chunk.css",
-    "main.js": "/static/js/main.81ad0d2b.chunk.js",
-    "main.js.map": "/static/js/main.81ad0d2b.chunk.js.map",
+    "main.css": "/static/css/main.73f9ad63.chunk.css",
+    "main.js": "/static/js/main.24c2e965.chunk.js",
+    "main.js.map": "/static/js/main.24c2e965.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2ae0d258.js",
     "runtime-main.js.map": "/static/js/runtime-main.2ae0d258.js.map",
     "static/css/2.74beb764.chunk.css": "/static/css/2.74beb764.chunk.css",
@@ -14,7 +14,7 @@
     "cde265b9865f3e759bd45f752b573529.js.LICENSE.txt": "/cde265b9865f3e759bd45f752b573529.js.LICENSE.txt",
     "index.html": "/index.html",
     "static/css/2.74beb764.chunk.css.map": "/static/css/2.74beb764.chunk.css.map",
-    "static/css/main.52de861d.chunk.css.map": "/static/css/main.52de861d.chunk.css.map",
+    "static/css/main.73f9ad63.chunk.css.map": "/static/css/main.73f9ad63.chunk.css.map",
     "static/js/2.6332d8e2.chunk.js.LICENSE.txt": "/static/js/2.6332d8e2.chunk.js.LICENSE.txt",
     "static/media/Google_logo.55ea24c4.svg": "/static/media/Google_logo.55ea24c4.svg",
     "static/media/about_pic.853c9d27.webp": "/static/media/about_pic.853c9d27.webp",
@@ -50,7 +50,7 @@
     "static/media/locum_job_icon.7d4d319b.svg": "/static/media/locum_job_icon.7d4d319b.svg",
     "static/media/locum_pharmacy_icon.40f33fda.svg": "/static/media/locum_pharmacy_icon.40f33fda.svg",
     "static/media/locumbay-logo.b5bbb70b.png": "/static/media/locumbay-logo.b5bbb70b.png",
-    "static/media/styles.scss": "/static/media/login_bg.543d6b73.webp",
+    "static/media/styles.scss": "/static/media/nurse_vector.412251fc.png",
     "static/media/logout_icon.b2b63429.svg": "/static/media/logout_icon.b2b63429.svg",
     "static/media/manage_profile_icon.0ebd5b63.svg": "/static/media/manage_profile_icon.0ebd5b63.svg",
     "static/media/manage_staff_icon.42f30b3c.svg": "/static/media/manage_staff_icon.42f30b3c.svg",
@@ -76,7 +76,7 @@
     "static/js/runtime-main.2ae0d258.js",
     "static/css/2.74beb764.chunk.css",
     "static/js/2.6332d8e2.chunk.js",
-    "static/css/main.52de861d.chunk.css",
-    "static/js/main.81ad0d2b.chunk.js"
+    "static/css/main.73f9ad63.chunk.css",
+    "static/js/main.24c2e965.chunk.js"
   ]
 }
