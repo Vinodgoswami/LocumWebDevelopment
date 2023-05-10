@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c733cf45.chunk.css",
-    "main.js": "/static/js/main.894c2382.chunk.js",
-    "main.js.map": "/static/js/main.894c2382.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3d4ecdb9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3d4ecdb9.js.map",
+    "main.css": "/static/css/main.66b63d07.chunk.css",
+    "main.js": "/static/js/main.dd87abfd.chunk.js",
+    "main.js.map": "/static/js/main.dd87abfd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f69a353b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f69a353b.js.map",
     "static/css/2.381ff0df.chunk.css": "/static/css/2.381ff0df.chunk.css",
-    "static/js/2.697f080a.chunk.js": "/static/js/2.697f080a.chunk.js",
-    "static/js/2.697f080a.chunk.js.map": "/static/js/2.697f080a.chunk.js.map",
-    "static/js/3.199763f2.chunk.js": "/static/js/3.199763f2.chunk.js",
-    "static/js/3.199763f2.chunk.js.map": "/static/js/3.199763f2.chunk.js.map",
+    "static/js/2.649d4bfd.chunk.js": "/static/js/2.649d4bfd.chunk.js",
+    "static/js/2.649d4bfd.chunk.js.map": "/static/js/2.649d4bfd.chunk.js.map",
+    "static/js/3.e056adc9.chunk.js": "/static/js/3.e056adc9.chunk.js",
+    "static/js/3.e056adc9.chunk.js.map": "/static/js/3.e056adc9.chunk.js.map",
     "cde265b9865f3e759bd45f752b573529.js": "/cde265b9865f3e759bd45f752b573529.js",
     "cde265b9865f3e759bd45f752b573529.js.LICENSE.txt": "/cde265b9865f3e759bd45f752b573529.js.LICENSE.txt",
     "index.html": "/index.html",
     "static/css/2.381ff0df.chunk.css.map": "/static/css/2.381ff0df.chunk.css.map",
-    "static/css/main.c733cf45.chunk.css.map": "/static/css/main.c733cf45.chunk.css.map",
-    "static/js/2.697f080a.chunk.js.LICENSE.txt": "/static/js/2.697f080a.chunk.js.LICENSE.txt",
+    "static/css/main.66b63d07.chunk.css.map": "/static/css/main.66b63d07.chunk.css.map",
+    "static/js/2.649d4bfd.chunk.js.LICENSE.txt": "/static/js/2.649d4bfd.chunk.js.LICENSE.txt",
     "static/media/Google_logo.55ea24c4.svg": "/static/media/Google_logo.55ea24c4.svg",
     "static/media/about_pic.853c9d27.webp": "/static/media/about_pic.853c9d27.webp",
     "static/media/about_slide1.38062d3b.jpg": "/static/media/about_slide1.38062d3b.jpg",
@@ -30,6 +30,7 @@
     "static/media/chat_panel.8d1047d4.svg": "/static/media/chat_panel.8d1047d4.svg",
     "static/media/chatpanel.scss": "/static/media/search_icon.f7e1de50.svg",
     "static/media/close_icon.135c5616.svg": "/static/media/close_icon.135c5616.svg",
+    "static/media/close_icon_white.ced1761a.svg": "/static/media/close_icon_white.ced1761a.svg",
     "static/media/close_white_icon.400513bd.svg": "/static/media/close_white_icon.400513bd.svg",
     "static/media/completedJobs.c68451fa.svg": "/static/media/completedJobs.c68451fa.svg",
     "static/media/cross_icon_green.a3f9c342.svg": "/static/media/cross_icon_green.a3f9c342.svg",
@@ -88,10 +89,10 @@
     "static/media/ytube_icon.fd7158b1.svg": "/static/media/ytube_icon.fd7158b1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d4ecdb9.js",
+    "static/js/runtime-main.f69a353b.js",
     "static/css/2.381ff0df.chunk.css",
-    "static/js/2.697f080a.chunk.js",
-    "static/css/main.c733cf45.chunk.css",
-    "static/js/main.894c2382.chunk.js"
+    "static/js/2.649d4bfd.chunk.js",
+    "static/css/main.66b63d07.chunk.css",
+    "static/js/main.dd87abfd.chunk.js"
   ]
 }
