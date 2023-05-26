@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.41d40ea4.chunk.css",
-    "main.js": "/static/js/main.9b6aa583.chunk.js",
+    "main.css": "/static/css/main.516ca607.chunk.css",
+    "main.js": "/static/js/main.364629e7.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.568c202d.js",
     "static/css/2.5668b127.chunk.css": "/static/css/2.5668b127.chunk.css",
     "static/js/2.77c5aca1.chunk.js": "/static/js/2.77c5aca1.chunk.js",
@@ -72,6 +72,7 @@
     "static/media/locumbay-logo.b5bbb70b.png": "/static/media/locumbay-logo.b5bbb70b.png",
     "static/media/styles.scss": "/static/media/nurse_vector.412251fc.png",
     "static/media/logout_icon.b2b63429.svg": "/static/media/logout_icon.b2b63429.svg",
+    "static/media/manage_branches.b0078513.svg": "/static/media/manage_branches.b0078513.svg",
     "static/media/manage_profile_icon.0ebd5b63.svg": "/static/media/manage_profile_icon.0ebd5b63.svg",
     "static/media/manage_staff_icon.42f30b3c.svg": "/static/media/manage_staff_icon.42f30b3c.svg",
     "static/media/map.31ae81fd.jpg": "/static/media/map.31ae81fd.jpg",
@@ -103,7 +104,7 @@
     "static/js/runtime-main.568c202d.js",
     "static/css/2.5668b127.chunk.css",
     "static/js/2.77c5aca1.chunk.js",
-    "static/css/main.41d40ea4.chunk.css",
-    "static/js/main.9b6aa583.chunk.js"
+    "static/css/main.516ca607.chunk.css",
+    "static/js/main.364629e7.chunk.js"
   ]
 }
